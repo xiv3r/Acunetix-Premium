@@ -1,11 +1,13 @@
-# Acunetix-Premium
+# Acunetix-Premium for Kali, Parrot, Ubuntu Linux
 Free Acunetix Premium
 <br>
 
 ## Installation
 
 - Download [`Acunetix Premium`](https://github.com/xiv3r/Acunetix-Premium/releases/download/v1/Acunetix_Premium.zip)
+
 - Extract the zip file from the Download Folder `cd /home/user/Downloads/` | `unzip Acunetix_Premium.zip`
+
 - Go into extracted folder `cd Acunetix_Premium`
 
 - Installing Acunetix Premium
