@@ -5,7 +5,7 @@
 👉 [Overview](https://www.acunetix.com/product/premium/)
 
 
-# Installation
+## Installation
 
 - Download [Acunetix Premium](https://github.com/xiv3r/Acunetix-Premium/releases/download/v1/Acunetix_Premium.zip)
 
@@ -25,7 +25,7 @@
   
 <br>
 
-# Setup
+## Setup
 
 - Add new Email: `xiv3r@gmail.com` (your email) and Password: `x!v3r!7` (your password) after successful installation open this link [https://localhost:3443/](https://localhost:3443/) in browser
 
