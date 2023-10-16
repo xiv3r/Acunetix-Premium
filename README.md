@@ -2,7 +2,7 @@
 <p align="center"> Acunetix Premium is a web application security solution for managing the security of multiple websites, web applications, and APIs. Integration features allow you to automate your DevOps and issue management infrastructures.</p>
 <br></br>
 
-👉 [Full Description](https://www.acunetix.com/product/premium/)
+👉 [Overview](https://www.acunetix.com/product/premium/)
 
 
 # Installation
@@ -27,6 +27,6 @@
 
 # Setup
 
-- Add new Email: `xiv3r@gmail.com` (your email) and Password: `x!v3r!7` (your password) after successful installation open link [`https://localhost:3443/`](https://localhost:3443/) in browser
+- Add new Email: `xiv3r@gmail.com` (your email) and Password: `x!v3r!7` (your password) after successful installation open this link [https://localhost:3443/](https://localhost:3443/) in browser
 
-- Login with Email: `xiver@gmail.com` and Password: `x!v3r!7` 
+- Login with your Email: `xiver@gmail.com` and Password: `x!v3r!7` 
